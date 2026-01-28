@@ -1,0 +1,10 @@
+a=int(input())
+b=int(input())
+addition=a+b
+substraction=a-b
+multiplication=a*b
+division=a/b
+print("Addition:",addition)
+print("Substraction:",substraction) 
+print("Multiplication:",multiplication)
+print("Division:",division)
